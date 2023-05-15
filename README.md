@@ -25,7 +25,7 @@ The MP3 Player project is a feature-rich music player application developed usin
 8. To go back to the previous song, click the "Previous" button. The player loads and automatically starts playing the previous song in the list.
 
 ## Preview of the User Interface
-![ScreenSnap](https://github.com/ShakalyaGarg/TuneWave/assets/129611852/b5c3b6e6-7a0e-4e69-8f35-0324b35bbef0)
+![](Icons/ScreenSnap.PNG)
 
 
 
